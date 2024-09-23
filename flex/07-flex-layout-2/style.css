@@ -40,7 +40,6 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.06);
   border-radius: 4px;
-  margin: 0;
   padding: 16px;
   width: 300px;
 }
@@ -65,7 +64,6 @@ ul {
 li {
   margin-bottom: 16px;
 }
-
 a {
   text-decoration: none;
   color: white;
